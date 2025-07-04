@@ -63,7 +63,7 @@ Asegúrate de probar la creación y relación entre objetos de todas las clases.
 
 ### 🚀 Mejoras y Optimización
 
-Se organizaron correctamente los paquetes del proyecto (src/main/java).
+Se organizaron correctamente los paquetes del proyecto.
 
 Se realizaron al menos tres commits significativos que documentan el progreso del desarrollo.
 
@@ -74,6 +74,8 @@ Se creó un diagrama UML con todas las clases y relaciones del sistema.
 Se realizaron pruebas manuales del sistema para verificar la correcta interacción entre clases.
 
 Código optimizado respetando buenas prácticas: encapsulamiento, uso de constructores y métodos bien definidos, etc.
+
+[Diagrama](https://drive.google.com/file/d/1cnCItDC5-NVYidLe-lpt6ehSwKCfI-hI/view?usp=sharing)
 
 ### 📁 Estructura del Proyecto
 
@@ -94,6 +96,9 @@ poo-uni1a/
 │       └── Temporada              
 ├── README.md
 ```
+
 Proyecto realizado por: José Valdiviezo
+
 Universidad Politécnica Salesiana
+
 Asignatura: Programación Orientada a Objetos - Unidad 2
