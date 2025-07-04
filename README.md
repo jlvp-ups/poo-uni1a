@@ -21,9 +21,9 @@ Se incorporaron varias clases al sistema base, respetando los principios de POO:
 - `Actor`: Asociada a la clase `Película`. Representa a los actores que participan en una película.
 - `Temporada`: Asociada a la clase `SerieDeTV`. Representa una temporada específica dentro de una serie.
 - `Investigador`: Asociada a la clase `Documental`. Representa a la persona responsable de la investigación en un documental.
-- Nuevas subclases que heredan de `ContenidoAudiovisual`, como:
-  - `Cortometraje`
-  - `VideoYouTube` *(o cualquier otra clase creada por iniciativa propia)*
+- Nuevas subclases como:
+  - `Episodio`
+  - `Genero`
 
 Cada clase incluye atributos, constructores y métodos relevantes, además de relaciones adecuadas (asociación, agregación o composición) con las clases existentes.
 
