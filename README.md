@@ -93,7 +93,6 @@ poo-uni1a/
 |       ├── SerieDeTv              
 │       └── Temporada              
 ├── README.md
-👨‍💻 Autor
 ```
 Proyecto realizado por: José Valdiviezo
 Universidad Politécnica Salesiana
