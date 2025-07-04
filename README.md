@@ -80,15 +80,18 @@ Código optimizado respetando buenas prácticas: encapsulamiento, uso de constru
 ```
 poo-uni1a/
 ├── src/
-│   └── main/
-│       └── java/
-│           ├── contenido/              # Clases base como ContenidoAudiovisual
-│           ├── peliculas/              # Clases Película y Actor
-│           ├── series/                 # Clases SerieDeTV y Temporada
-│           ├── documentales/           # Clases Documental e Investigador
-│           └── adicionales/            # Subclases como Cortometraje, VideoYouTube
-├── diagramas/
-│   └── [UML en Drive]
+    └── poo
+        └──PruebaAudioVisual.java 
+│   └── uni1a/
+│       ├── Actor              
+│       ├── ContenidoAudiovisual              
+│       ├── Documental                
+│       ├── Episodio           
+|       ├── Genero              
+|       ├── Investigador              
+|       ├── Pelicula              
+|       ├── SerieDeTv              
+│       └── Temporada              
 ├── README.md
 👨‍💻 Autor
 ```
