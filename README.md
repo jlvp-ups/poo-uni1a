@@ -76,9 +76,8 @@ Se realizaron pruebas manuales del sistema para verificar la correcta interacci�
 Código optimizado respetando buenas prácticas: encapsulamiento, uso de constructores y métodos bien definidos, etc.
 
 ### 📁 Estructura del Proyecto
-bash
-Copy
-Edit
+
+```
 poo-uni1a/
 ├── src/
 │   └── main/
@@ -92,6 +91,7 @@ poo-uni1a/
 │   └── [UML en Drive]
 ├── README.md
 👨‍💻 Autor
+```
 Proyecto realizado por: José Valdiviezo
 Universidad Politécnica Salesiana
 Asignatura: Programación Orientada a Objetos - Unidad 2
